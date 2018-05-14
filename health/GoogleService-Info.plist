@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>133973361552-3u6a43eg9ahid74gbmqh7amn1jeshl6k.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.133973361552-3u6a43eg9ahid74gbmqh7amn1jeshl6k</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC6oCG00vglA1oZzbd-mD-o6E5UfwXwwlU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>133973361552</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Philip.health</string>
+	<key>PROJECT_ID</key>
+	<string>healthmanagement-45328</string>
+	<key>STORAGE_BUCKET</key>
+	<string>healthmanagement-45328.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:133973361552:ios:87b9f60dd14fe81b</string>
+	<key>DATABASE_URL</key>
+	<string>https://healthmanagement-45328.firebaseio.com</string>
+</dict>
+</plist>
